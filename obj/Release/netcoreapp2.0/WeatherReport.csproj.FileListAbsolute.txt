@@ -1,0 +1,12 @@
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\bin\Release\netcoreapp2.0\WeatherReport.deps.json
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\bin\Release\netcoreapp2.0\WeatherReport.runtimeconfig.json
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\bin\Release\netcoreapp2.0\WeatherReport.runtimeconfig.dev.json
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\bin\Release\netcoreapp2.0\WeatherReport.dll
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\bin\Release\netcoreapp2.0\WeatherReport.pdb
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\obj\Release\netcoreapp2.0\WeatherReport.csproj.CoreCompileInputs.cache
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\obj\Release\netcoreapp2.0\WeatherReport.AssemblyInfoInputs.cache
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\obj\Release\netcoreapp2.0\WeatherReport.AssemblyInfo.cs
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\obj\Release\netcoreapp2.0\WeatherReport.dll
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\obj\Release\netcoreapp2.0\WeatherReport.pdb
+C:\Users\inchk5\Documents\Visual Studio 2017\Projects\WeatherReport\WeatherReport\obj\Release\netcoreapp2.0\WeatherReport.csprojResolveAssemblyReference.cache

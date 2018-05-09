@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Weather Report";
+}
+@model WeatherReport.Models.WeatherCityValidaton
+<h2>WeatherJS</h2>
+
+
+<body>
+
+    Get Weather of any city<br />
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+        <p> @Html.TextBoxFor(x => x.City,new { @class = "required"})</p>
+            <input type="submit" value='Submit'/>
+       
+    }
+    <p>After Submit , Check WeatheReport Page</p>
+  
+</body>
